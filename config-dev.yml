@@ -1,2 +1,2 @@
-service: 
-  port: 123456 #dev
+config: 
+  info: dev version 1
